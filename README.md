@@ -1,4 +1,4 @@
-# plansAndReports
+# Test plan and Test report
 
 This repository contains Test plan (Web App Testing) and Test summury report (Mobile App testing)
 
